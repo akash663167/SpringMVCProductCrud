@@ -2,10 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.akash.crud.mvc</groupId>
-	<artifactId>ProductCRUD</artifactId>
+	<artifactId>BohniAure</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ProductCRUD Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
@@ -133,7 +132,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>ProductCRUD</finalName>
+		<finalName>BohniAure</finalName>
 		<!-- <plugins> <plugin> <groupId>org.apache.maven.plugins</groupId> <artifactId>maven-compiler-plugin</artifactId> 
 			<configuration> or whatever version you use <source>1.8</source> <target>1.8</target> 
 			</configuration> </plugin> </plugins> -->
@@ -141,4 +140,5 @@
 
 
 	</build>
+	<name>BohniAure</name>
 </project>
